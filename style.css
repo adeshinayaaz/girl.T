@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    text-align: center;
+     vertical-align:text-top;
+    margin-top: 80px;
+    margin-right: 130px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+    
+}
+.ict{
+    color: rgb(31, 80, 31);
+    font-size: 30px;
+    
+}
+.com{
+    color: rgb(246, 170, 28);
+    letter-spacing: 1px;
+}
+.img1{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    left: 800px;
+    top: -90px;
+}
+.content{
+    text-align: center;
+}
+.Today{
+    color: rgb(148, 56, 148);
+    text-align: center;
+    
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.PT{
+    text-align: center;
+    margin-top: 30px;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.img2{
+margin-top: 70px;
+margin-right: 160px;
+}
+.IMG{
+    height: 500px;
+    width: 600px;
+    margin-left: 70px;
+}
+.cn{
+    width: 100%;
+    height: 190vh;
+    background-color:rgb(148, 56, 148) ;
+    background-position: center;
+    background-size: cover;
+}
+.Pcn{
+    text-align: center;
+    margin-top: 80px;
+    padding: 60px;
+    color: white;
+    font-size: 20px;
+}
+.img3{
+    position: relative;
+    left: 250px;
+    margin-top: 70px;
+}
+.IMG3{
+    border-radius: 30px;
+    width: 500px;
+    height: 480px;
+}
+.cn2{
+    float: right;
+    position: relative;
+    right: 600px;
+    top: 60px;
+}
+.hcn2{
+    font-size: 30px;
+    color: yellow;
+}
+.pcn2{
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+}
+.img4{
+    position: relative;
+    left: 200px;
+    margin-top: 50px;
+}
+.IMG4{
+  border-radius: 30px;
+}
+.cn3{
+    position: relative;
+    float: left;
+    right: 100px;
+    top: 60px;
+    color: white;
+    font-size: 20px;
+
+}
+.par{
+     width: 100%;
+     height: 95vh;
+    background-color:rgb(213, 210, 210);
+    margin-top: 60px;
+       
+}
+.CN{
+    padding: 55px;
+    position: relative;
+    display: flex;
+    left: 90px;
+    
+}
+.how{
+    position: relative;
+    left: 90px;
+}
+.Hpar{
+    font-size: 30px;
+    color: rgb(148, 56, 148);
+}
+.IMG5{
+    border-radius: 30px;
+    height: 600px;
+}
+.timeline{
+    text-align: center;
+    padding-top: 70px;
+    display: flex;
+    position: relative;
+    left: 300px;  
+}
+.line{
+   padding-top: 70px;
+   text-align: center;
+   font-size: 30px;
+}
+.stage1{
+    position: relative;
+    right: 100px;
+    background-color:rgb(213, 210, 210) ;
+    height: 300px;
+    width: 280px;
+    border-radius: 10px;
+}
+.stg1{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 75px;
+}
+.hstg1{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -18px;
+    line-height: 20px;
+    right: 30px;
+}
+.pstg1{
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
+.stage2{
+    position: relative;
+    background-color:goldenrod ;
+    height: 300px;
+    width: 280px;
+    border-radius: 10px;
+}
+.stg2{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 75px;
+}
+.hstg2{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -18px;
+    line-height: 20px;
+    right: 50px;
+}
+.pstg2{
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
+.stage3{
+    position: relative;
+    left: 80px;
+    background-color:rgb(148, 56, 148) ;
+    height: 300px;
+    width: 280px;
+    border-radius: 10px;   
+}
+.stg3{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 75px;
+}
+.hstg3{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -18px;
+    line-height: 20px;
+    right: 40px;
+}
+.pstg3{
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    right: 60px;
+}
+.hr1{
+    height: 0;
+    width: 60px;
+    position: relative;
+    top: 160px;
+     left: 500px;    
+}
+.hr2{
+    height: 0;
+    width: 50px;
+    position: relative;
+    top: 160px; 
+    left: 870px;
+}
+.cn4{
+    text-align: center;
+    margin-top: 90px;
+}
+.hcn4{
+    font-size: 30px;
+}
+.reward{
+    padding-top: 40px;
+    display: flex;
+    position: relative;
+    left: 300px;
+}
+.sg1{
+    position: relative;
+    right: 90px;
+    background-color:rgb(213, 210, 210) ;
+    height: 230px;
+    width: 250px;
+    border-radius: 10px;
+}
+.hsg1{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 60px;
+    font-weight: bolder;
+    color: black;
+}
+.psg1{
+    font-size: 17px;
+    position: relative;
+    top: 40px;
+    right: 20px;
+}
+.sg2{
+    position: relative;
+    left: 20px;
+    background-color:rgb(213, 210, 210) ;
+    height: 230px;
+    width: 250px;
+    border-radius: 10px;
+}
+.hsg2{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 60px;
+    font-weight: bolder;
+    color: black;
+}
+.psg2{
+    font-size: 17px;
+    position: relative;
+    top: 40px;
+    right: 20px;
+}
+.sg3{
+    position: relative;
+    left: 100px;
+    background-color:rgb(213, 210, 210) ;
+    height: 230px;
+    width: 250px;
+    border-radius: 10px;
+}
+.hsg3{
+    font-size: 20px;
+    padding: 40px;
+    position: relative;
+    right: 60px;
+    font-weight: bolder;
+    color: black;
+}
+.psg3{
+    font-size: 17px;
+    position: relative;
+    top: 40px;
+    right: 20px;
+}
+.Lcon{
+text-align: center;
+margin-top: 60px;
+background-color: rgb(213, 210, 210);
+height: 300px;
+}
+.show{
+    padding: 100px;
+}
+.Hshw{
+    font-size: 40px;
+    color: goldenrod;
+}
+a,button{
+    margin-top: 40px;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    color: black;
+    font-weight: bolder;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
